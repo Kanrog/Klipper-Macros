@@ -5,7 +5,8 @@ Most of these macros are here just so that its easy for me to grab them when I n
 Some are spesific to that particular printer, other need some configuring to work properly, I will try to make notes in the files to explain if they need spesific changes.
 
 Overview:
-  -Calibration
+
+  - Calibration
     - Buzz # I use these when setting up a new printer to help me identify issues with motors #
       - BUZZ_X
       - BUZZ_Y
