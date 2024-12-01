@@ -7,7 +7,7 @@ Some are spesific to that particular printer, other need some configuring to wor
 Overview:
 
   - Calibration
-    - Buzz # I use these when setting up a new printer to help me identify issues with motors #
+    - Buzz
       - BUZZ_X
       - BUZZ_Y
       - BUZZ_Z
@@ -17,7 +17,7 @@ Overview:
     - Calibrate
       - Level Bed
       - Z-Calibrate
-      - E-Calibrate
+      - E-Calibrate - Use along with https://www.rolohaun3d.ca/klipper
       - PID Hotend
       - PID Hotbed
       - Shape (input shaper X/Y)
