@@ -28,6 +28,8 @@ Overview:
     - Load Filament
     - Unload Filament
     - Heat Chamber
+    - Park Printer
+    - Better SAVE_CONFIG
   - Torture
     - Torture
     - Torture Z
