@@ -11,6 +11,7 @@ Overview:
       - BUZZ_X
       - BUZZ_Y
       - BUZZ_Z
+      - BUZZ_E
       - BUZZ_Z1
       - BUZZ_Z2
       - BUZZ_Z3
